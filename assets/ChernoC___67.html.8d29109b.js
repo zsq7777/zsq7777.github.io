@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as _,b as a,e as o}from"./app.52f3483b.js";const c={},s={id:"_67-c-\u7684\u8054\u5408\u4F53",tabindex:"-1"},r=a("a",{class:"header-anchor",href:"#_67-c-\u7684\u8054\u5408\u4F53","aria-hidden":"true"},"#",-1),n=o(" 67. C++\u7684\u8054\u5408\u4F53"),d=[r,n];function h(i,f){return t(),_("h1",s,d)}var m=e(c,[["render",h]]);export{m as default};
