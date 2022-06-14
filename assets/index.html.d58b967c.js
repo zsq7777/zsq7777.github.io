@@ -1,0 +1,1 @@
+import{_ as e,o as r,a as n}from"./app.5fcd9e84.js";const c={};function o(t,a){return r(),n("p",null,"\u542F\u8230\u7684Android\u81EA\u5B9A\u4E49\u63A7\u4EF6\u5F00\u53D1\u5165\u95E8\u4E0E\u5B9E\u8DF5\u3002")}var s=e(c,[["render",o]]);export{s as default};

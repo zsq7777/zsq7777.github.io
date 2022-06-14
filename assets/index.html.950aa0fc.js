@@ -1,1 +1,0 @@
-import{_ as e,o as a,a as r}from"./app.fd59a98b.js";const c={};function n(t,o){return a(),r("p",null,"java\u5BF9\u6587\u4EF6\u7684\u64CD\u4F5C\u65B9\u6CD5")}var s=e(c,[["render",n]]);export{s as default};
